@@ -3,7 +3,7 @@
 ### 1. Instalar dependencias
 `$ su`
 
-```#dnf install gtk3-devel git sassc```
+```#dnf install gtk3-devel git sassc python3 python3-pip```
 
 ### 2. Instalar meson y ninja con pip3
 
